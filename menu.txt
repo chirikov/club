@@ -1,0 +1,7 @@
+<br>
+&nbsp;<img src=str.gif>&nbsp;&nbsp;<a href=club.php?p=3&param=main.php target=main>Главная</a><br>
+&nbsp;<img src=str.gif>&nbsp;&nbsp;<a href=club.php?p=3&param=guestbook.php target=main>Общение</a><br>
+&nbsp;<img src=str.gif>&nbsp;&nbsp;<a href=club.php?p=8 target=main>Список участников</a><br>
+&nbsp;<img src=str.gif>&nbsp;&nbsp;<a href=http://localhost/cgi-bin/bluechat.cgi target=_blank title=Чат для всех>Чат Rambex</a><br>
+&nbsp;<img src=str.gif>&nbsp;&nbsp;<a href=mast2.php target=main title=Скрипты, советы...>Web-мастеру</a><br>
+&nbsp;<IMG src=str.gif>&nbsp;&nbsp;<a href=blag2.php target=main title=Благодарности людям, без которых Вас бы сейчас здесь не было.><font size="2">Благодарности</font></a><br>
